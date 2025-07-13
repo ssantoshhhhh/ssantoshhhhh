@@ -43,7 +43,6 @@ Welcome to my GitHub! I'm a passionate full-stack developer who enjoys building 
 
 ## 📫 How to reach me:
 - Email: santoshkumar90101s@gmail.com
-- Instagram : ssantoshhhhh
 
 ## 😄 Pronouns:
 He/Him
